@@ -1,0 +1,19 @@
+body{
+	background: linear-gradient(
+		to right,
+		silver, white, silver
+	);
+	font-family: cursive;
+}
+
+p{
+	text-align: justify;
+	max-width: 1200px;
+	margin: 30px auto;
+}
+
+.video{
+	display: flex;
+	justify-content: center;
+	padding: 80px 0 50px;
+}
